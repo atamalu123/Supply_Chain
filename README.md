@@ -3,7 +3,7 @@
 Different scenarios that might be encountered in the supply chain process.
 
 * [Deciding between suppliers](#scenario-1)
-* [Forecast demand and calculate the Safety Stock, ROP, and EOQ for 2 items]()
+* [Forecast demand and calculate the Safety Stock, ROP, and EOQ for 2 items](#scenario-2)
 
 # Scenario 1
 
