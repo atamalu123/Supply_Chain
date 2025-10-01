@@ -16,6 +16,6 @@ You have 3 suppliers for a critical manufacturing part with different lead times
 
 ## Answer
 
-* Use Supplier C (low cost, low lead time) for the primary supplier and use them for as much demand as they can handle (cycle stock, safety stock, etc)
-* Use Supplier A (high cost, high lead time) for urgent needs 
+* Use Supplier C (low cost, high lead time) for the primary supplier and use them for as much demand as they can handle (cycle stock, safety stock, etc)
+* Use Supplier A (high cost, low lead time) for urgent needs (stockouts, etc)
 * Use Supplier B (medium cost, medium lead time) for situations when Supplier C and Supplier A cannot handle their respective roles
