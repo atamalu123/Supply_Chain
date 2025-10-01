@@ -1,6 +1,8 @@
 # Supply Chain Questions
 
-Different scenarios that might be encountered in the supply chain process
+Different scenarios that might be encountered in the supply chain process.
+
+* [Deciding between suppliers](#scenario-1)
 
 # Scenario 1
 
